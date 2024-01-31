@@ -1,0 +1,7 @@
+deta
+flask==2.2.2
+httpx
+APScheduler==3.8.1
+beautifulsoup4==4.10.0
+pyTelegramBotAPI==4.2.0
+python-dotenv==0.19.2
